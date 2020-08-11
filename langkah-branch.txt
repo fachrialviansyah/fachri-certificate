@@ -1,6 +1,0 @@
-- Langkah-langkah Belajar branch 
- *youtube
-  {Web Programming Unpas} {Malasngoding.com}
- *browser
- {Wikipedia} {Google}
- 
